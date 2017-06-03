@@ -19,3 +19,4 @@ With filemodes being implemented. File mode system consisting of: Transaction,
 Exclusive and Unrestricted modes where we associated numbers with each of the following modes to be
 able to apply them to each file.
 
+Partner: Josh Vilson
